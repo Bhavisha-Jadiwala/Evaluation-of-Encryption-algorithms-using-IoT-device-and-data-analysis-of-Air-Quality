@@ -30,7 +30,7 @@ git commit -m "Initial commit: AQMS PHP dashboard, MySQL schema, and Python IoT 
 git branch -M main
 
 # Link your local folder to your GitHub repository
-git remote add origin https://github.com/your-username/air-quality-monitoring-system.git
+git remote add origin https://github.com/Bhavisha-Jadiwala/Evaluation-of-Encryption-algorithms-using-IoT-device-and-data-analysis-of-Air-Quality
 
 # Push your code to GitHub
 git push -u origin main
