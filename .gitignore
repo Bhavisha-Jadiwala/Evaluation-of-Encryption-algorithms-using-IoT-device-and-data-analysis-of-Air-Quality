@@ -1,3 +1,5 @@
 global/vendor/
 *.env
 *.log
+assets/js/App/Location.js
+assets/js/App/Travel.js
