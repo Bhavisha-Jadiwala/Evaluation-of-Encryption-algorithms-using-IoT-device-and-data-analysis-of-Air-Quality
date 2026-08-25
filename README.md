@@ -1,4 +1,14 @@
 # Evaluation-of-Encryption-algorithms-using-IoT-device-and-data-analysis-of-Air-Quality
+## ℹ️ About The Project
+
+The **Air Quality Monitoring System (AQMS)** is an end-to-end IoT platform designed to collect, process, and display environmental air quality data in real time. 
+
+### Key Features
+* **Real-Time Data Collection:** Python edge node reads hardware sensors and sends JSON telemetry to the API[cite: 4, 9].
+* **Interactive Dashboard:** Dynamic map interface displaying active monitoring stations and live gauge readings[cite: 1, 6].
+* **Historical Data Analysis:** Visualized trend charts tracking Temperature, Humidity, PM2.5, and PM10 metrics[cite: 1].
+* **User Authentication:** Secure user registration and login session management[cite: 3, 5, 10].
+
 aqms-project/
 ├── database/
 │   └── aqms_db.sql
